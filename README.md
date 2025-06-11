@@ -7,7 +7,7 @@ This is a 2D recreation of the **classic Donkey Kong arcade game**, originally r
 
 <video src="media/gameVideo.mp4" controls width="100%"></video>
 
-> _Note: If the video doesn't play in preview, [download it here](media/gameVideo.mp4) and play locally._
+> _Note: If the video doesn't play in preview, [download it here](media/gameVideo.mp4) and play locally, view the screenshots below._
 
 ## 🎮 Game Features
 
