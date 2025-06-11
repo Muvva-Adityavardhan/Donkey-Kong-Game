@@ -1,13 +1,13 @@
 # 🎮 Donkey Kong Game - Unity Project
 
-This is a 2D recreation of the classic **Donkey Kong** arcade game developed using **Unity** and **C#** as part of the GRIET Lab On Board (G-LOB) micro project.
+This is a 2D recreation of the classic **Donkey Kong** arcade game developed using **Unity** and **C#**..
 
 
 ## 📽️ Gameplay Demo Video
 
 <video src="media/gameVideo.mp4" controls width="100%"></video>
 
-> _Note: If the video doesn't play in preview, [download it here](.media/gameVideo.mp4) and play locally._
+> _Note: If the video doesn't play in preview, [download it here](media/gameVideo.mp4) and play locally._
 
 ## 🎮 Game Features
 
