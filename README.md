@@ -1,6 +1,6 @@
 # 🎮 Donkey Kong Game - Unity Project
 
-This is a 2D recreation of the classic **Donkey Kong** arcade game developed using **Unity** and **C#**..
+This is a 2D recreation of the **classic Donkey Kong arcade game**, originally released by Nintendo in **1981*, which I developed using **Unity** and **C#**. This project captures the core gameplay mechanics of the original — including platform climbing, obstacle avoidance, and level progression — while applying modern game development practices such as physics simulation, scripting, and modular design. Built as part of an academic micro-project, it serves both as a nostalgic tribute and a learning milestone in 2D game development.
 
 
 ## 📽️ Gameplay Demo Video
