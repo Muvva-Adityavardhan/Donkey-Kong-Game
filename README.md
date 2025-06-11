@@ -39,8 +39,6 @@ This is a 2D recreation of the classic **Donkey Kong** arcade game developed usi
 
 ## 📷 Screenshots
 
-### Level 1 – Climbing the Ladder
+### Levels
 ![Level 1](media/Level1.png)
-
-### Level 2 – Barrel Challenge
 ![Level 2](media/Level2.png)
