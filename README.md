@@ -37,13 +37,10 @@ This is a 2D recreation of the classic **Donkey Kong** arcade game developed usi
 - Climb using **Up** and **Down** arrow keys on ladders
 - Avoid rolling barrels and reach the top to win
 
-## 📷 Screenshots (Optional)
+## 📷 Screenshots
 
-Add your screenshots in the `screenshots/` folder and link them like below:
-
-```markdown
 ### Level 1 – Climbing the Ladder
-![Level 1](screenshots/level1.png)
+![Level 1](media/Level1.png)
 
 ### Level 2 – Barrel Challenge
-![Level 2](screenshots/level2.png)
+![Level 2](media/Level2.png)
