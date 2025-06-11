@@ -44,3 +44,25 @@ This is a 2D recreation of the classic **Donkey Kong** arcade game developed usi
 <img src="media/Level1.png" alt="Level 1" width="400">
 <img src="media/Level2.png" alt="Level 2" width="300">
 </div>
+
+
+## ✅ Requirements
+
+- Unity Engine **2019.4 LTS or later**
+- Visual Studio **2019 or later** (Community Edition is sufficient)
+- .NET Framework compatible with Unity version
+- Git for version controls
+- Works on:
+  - ✅ Windows
+  - ✅ macOS
+  - ⚠️ (Linux support possible but may require tweaks)
+- At least **8 GB RAM** recommended for smooth Unity Editor performance
+
+---
+
+## 📚 References
+
+- 📘 [Unity Documentation](https://docs.unity3d.com)
+- 📙 [C# Programming Guide – Microsoft Docs](https://docs.microsoft.com/en-us/dotnet/csharp/)
+- 📗 [Unity Learn Platform](https://learn.unity.com/)
+- 📕 [Unity Asset Store](https://assetstore.unity.com/)
