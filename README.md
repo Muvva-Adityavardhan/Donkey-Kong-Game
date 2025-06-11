@@ -41,5 +41,5 @@ This is a 2D recreation of the classic **Donkey Kong** arcade game developed usi
 
 ### Levels
 
-<img src="media/Level1.png" src="media/Level2.png" alt="Level 1" width="400"/>
-<img src="media/Level2.png" alt="Level 2" width="400"/>
+<img src="media/Level1.png" alt="Level 1" width="400">
+<img src="media/Level2.png" alt="Level 2" width="400">
