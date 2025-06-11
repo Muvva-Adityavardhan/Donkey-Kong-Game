@@ -25,7 +25,7 @@ This is a 2D recreation of the **classic Donkey Kong arcade game**, originally r
 
 ## 📂 Project Components
 
-`Player.cs`    --> Controls movement, jumping, and ladder climbing. <br>
+<input type = 'button' onclick="Scripts/Player.cs">    --> Controls movement, jumping, and ladder climbing. <br>
 `Barrel.cs`    --> Controls enemy barrels behavior and physics. <br>
 `Spawner.cs`   --> Spawns barrels dynamically. <br>
 `GameManager.cs` --> Handles game state, levels, score, and lives. <br>
